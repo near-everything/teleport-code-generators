@@ -26,6 +26,7 @@
     "@teleporthq/teleport-component-generator-angular": "^0.29.2",
     "@teleporthq/teleport-component-generator-html": "^0.29.2",
     "@teleporthq/teleport-component-generator-react": "^0.29.2",
+    "@teleporthq/teleport-component-generator-bos": "^0.29.2",
     "@teleporthq/teleport-component-generator-vue": "^0.29.2",
     "@teleporthq/teleport-project-generator-angular": "^0.29.2",
     "@teleporthq/teleport-project-generator-html": "^0.29.2",
